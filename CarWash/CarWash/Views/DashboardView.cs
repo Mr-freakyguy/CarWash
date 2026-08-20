@@ -86,6 +86,7 @@ namespace CarWash.Views
                 if (_validator.IsDuplicateCar(RegistrationNumber)) Console.WriteLine("A car with this registration already exists.");
             } while (!Validator.IsValidRegistration(RegistrationNumber) || _validator.IsDuplicateCar(RegistrationNumber));
             CarInfo car = _userService.RegisterCar(make, model, RegistrationNumber);
+            _userService.BookSlot(car);
         }
     }
 }

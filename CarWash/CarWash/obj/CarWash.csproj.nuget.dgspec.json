@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MOCK\\CarWash\\CarWash\\CarWash.csproj": {}
+    "C:\\Users\\SAMSUNG\\Downloads\\CarWash-main\\CarWash-main\\CarWash\\CarWash\\CarWash.csproj": {}
   },
   "projects": {
-    "D:\\MOCK\\CarWash\\CarWash\\CarWash.csproj": {
+    "C:\\Users\\SAMSUNG\\Downloads\\CarWash-main\\CarWash-main\\CarWash\\CarWash\\CarWash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MOCK\\CarWash\\CarWash\\CarWash.csproj",
+        "projectUniqueName": "C:\\Users\\SAMSUNG\\Downloads\\CarWash-main\\CarWash-main\\CarWash\\CarWash\\CarWash.csproj",
         "projectName": "CarWash",
-        "projectPath": "D:\\MOCK\\CarWash\\CarWash\\CarWash.csproj",
+        "projectPath": "C:\\Users\\SAMSUNG\\Downloads\\CarWash-main\\CarWash-main\\CarWash\\CarWash\\CarWash.csproj",
         "packagesPath": "C:\\Users\\SAMSUNG\\.nuget\\packages\\",
-        "outputPath": "D:\\MOCK\\CarWash\\CarWash\\obj\\",
+        "outputPath": "C:\\Users\\SAMSUNG\\Downloads\\CarWash-main\\CarWash-main\\CarWash\\CarWash\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,17 @@ D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\refint\CarWash.dll
 D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.pdb
 D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.genruntimeconfig.cache
 D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\ref\CarWash.dll
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\bin\Debug\net6.0\CarWash.exe
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\bin\Debug\net6.0\CarWash.deps.json
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\bin\Debug\net6.0\CarWash.runtimeconfig.json
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\bin\Debug\net6.0\CarWash.dll
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\bin\Debug\net6.0\CarWash.pdb
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfo.cs
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.dll
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\refint\CarWash.dll
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.pdb
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\CarWash.genruntimeconfig.cache
+C:\Users\SAMSUNG\Downloads\CarWash-main\CarWash-main\CarWash\CarWash\obj\Debug\net6.0\ref\CarWash.dll
