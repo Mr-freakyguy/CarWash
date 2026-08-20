@@ -1,0 +1,14 @@
+D:\MOCK\CarWash\CarWash\bin\Debug\net6.0\CarWash.exe
+D:\MOCK\CarWash\CarWash\bin\Debug\net6.0\CarWash.deps.json
+D:\MOCK\CarWash\CarWash\bin\Debug\net6.0\CarWash.runtimeconfig.json
+D:\MOCK\CarWash\CarWash\bin\Debug\net6.0\CarWash.dll
+D:\MOCK\CarWash\CarWash\bin\Debug\net6.0\CarWash.pdb
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfoInputs.cache
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfo.cs
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.csproj.CoreCompileInputs.cache
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.dll
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\refint\CarWash.dll
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.pdb
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\CarWash.genruntimeconfig.cache
+D:\MOCK\CarWash\CarWash\obj\Debug\net6.0\ref\CarWash.dll
